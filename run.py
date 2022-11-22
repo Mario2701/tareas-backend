@@ -73,4 +73,3 @@ def getTarea():
     }
     return jsonify(context)
 
-app.run(debug=True)
